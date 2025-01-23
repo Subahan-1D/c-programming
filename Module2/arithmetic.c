@@ -3,8 +3,8 @@
 {
     
      int a=20 , b=40 ;
-     int sum = a+b ;
-     printf("%d", sum);
+     int mns = a-b ;
+     printf("%d",mns);
 
     return 0;
 }
